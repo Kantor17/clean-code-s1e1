@@ -19,7 +19,8 @@
 
 @media (max-width:768px) {
 
-  .header { text-align: center;
+  .header {
+    text-align: center;
   }
   
 }
@@ -43,7 +44,8 @@ ul {
 li {
   list-style: none;
 }
-input,button{
+input,
+button{
   outline: none;
 }
 .button {
@@ -103,7 +105,9 @@ input,button{
   justify-content: space-between;
   align-items: center;
 }
-.task-item > .checkbox, .task, .button{
+.task-item > .checkbox,
+.task,
+.button{
   vertical-align: middle;
 }
 
