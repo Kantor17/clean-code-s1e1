@@ -120,7 +120,7 @@ button {
   font-size: 18px;
   width: 226px;
 }
-.task-list__item >    .task[type="text"] {
+.task-list__item > .task[type="text"] {
   width: 226px;
 }
 .button_delete .tasks-list__delete-img {
