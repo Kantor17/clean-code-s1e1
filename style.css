@@ -45,7 +45,7 @@ li {
   list-style: none;
 }
 input,
-button{
+button {
   outline: none;
 }
 .button {
@@ -107,7 +107,7 @@ button{
 }
 .task-list__item > .tasks-list__checkbox,
 .task,
-.button{
+.button {
   vertical-align: middle;
 }
 
